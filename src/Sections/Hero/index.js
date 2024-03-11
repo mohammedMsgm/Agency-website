@@ -193,12 +193,12 @@ const HeroSection = () => {
             <Circle />
             <span>We Build Web</span>
           </Topic>
-          <Title>Transforming your digital presence</Title>
+          <Title>Transformer votre présence numérique</Title>
           <SubText>
             we help fast growing companies build award winning websites
           </SubText>
           <CTA>
-            Get in touch &nbsp;
+          Contactez-nous &nbsp;
             <img src={arrow} alt="cta" width="100" height="100" />
           </CTA>
         </Lb>
