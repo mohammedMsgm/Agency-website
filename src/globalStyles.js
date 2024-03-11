@@ -8,7 +8,7 @@ export const GlobalStyle = createGlobalStyle`
    --purple:#803bec;
    --pink:#e5a1f8;
    --white:#fff;
-   --nav:#35353f;
+   --nav:#0d142b;
    --nav2:#3f3d56;
 }
 
