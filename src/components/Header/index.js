@@ -24,7 +24,7 @@ const Headers = styled.header`
 const Logo = styled.a`
   display: flex;
   align-items: center;
-  width: 2rem;
+  width: 4rem;
   height: auto;
   cursor: pointer;
   img {
